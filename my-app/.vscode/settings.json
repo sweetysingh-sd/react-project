@@ -1,0 +1,8 @@
+{
+    "emmet.useInlineCompletions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.variables": {
+        "lang": "en",
+        "charset": "UTF-8"
+    }
+}
